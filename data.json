@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "id": "customerId",
+      "label": "Customer ID",
+      "width": "10rem",
+      "search": true,
+      "sort": false,
+      "format": "number",
+      "align": "center"
+    },
+    {
+      "id": "customerName",
+      "label": "Customer Name",
+      "width": "15rem",
+      "search": true,
+      "sort": false,
+      "format": "text",
+      "align": "right"
+    }
+  ],
+  "rows": [
+    {
+      "customerId": 1,
+      "customerName": "Hariom 1"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Hariom 2"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Hariom 3"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Hariom 4"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Hariom 5"
+    }
+  ],
+  "totalPage": 100,
+  "offset": 10,
+  "currentPage": 1,
+  "totalRecord": 1000
+}
