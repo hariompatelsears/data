@@ -1,18 +1,18 @@
 {
   "columns": [
     {
-      "id": "customerId",
-      "label": "Customer ID",
-      "width": "10rem",
+      "id": "patientName",
+      "label": "Pateint Name",
+      "width": "40",
       "search": true,
       "sort": false,
       "format": "number",
       "align": "center"
     },
     {
-      "id": "customerName",
-      "label": "Customer Name",
-      "width": "15rem",
+      "id": "patientId",
+      "label": "Patient Id",
+      "width": "40",
       "search": true,
       "sort": false,
       "format": "text",
@@ -21,24 +21,24 @@
   ],
   "rows": [
     {
-      "customerId": 1,
-      "customerName": "Hariom 1"
+      "patientId": 1,
+      "patientName": "patient Name 1"
     },
     {
-      "customerId": 2,
-      "customerName": "Hariom 2"
+      "patientId": 2,
+      "patientName": "patient Name  2"
     },
     {
-      "customerId": 3,
-      "customerName": "Hariom 3"
+      "patientId": 3,
+      "patientName": "patient Name  3"
     },
     {
-      "customerId": 4,
-      "customerName": "Hariom 4"
+      "patientId": 4,
+      "patientName": "patient Name  4"
     },
     {
-      "customerId": 5,
-      "customerName": "Hariom 5"
+      "patientId": 5,
+      "patientName": "patient Name  5"
     }
   ],
   "totalPage": 100,
